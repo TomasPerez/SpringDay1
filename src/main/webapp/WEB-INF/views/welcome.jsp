@@ -5,8 +5,7 @@
 </head>
 <body>
 <h1>${title}</h1>
-${message}<br />
-The line above came from the model, named "message"
+
 <p>
     <strong><cite>${bob}</cite></strong>
 </p>
